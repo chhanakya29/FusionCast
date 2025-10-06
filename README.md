@@ -2,7 +2,7 @@
 
 FusionCast is an AI-powered web application that transforms raw text or PDF documents into concise summaries, extracts key points, and generates podcast-style audio in multiple languages—all within a modern, glassmorphic interface.
 
-![FusionCast Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
+
 
 ---
 
